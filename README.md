@@ -148,7 +148,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 
 - [Atom](https://atom.io/) - Hackable text and source code editor. (Archived) ([MIT](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md))
 - [Pulsar](https://pulsar-edit.dev/) - A Community-led Hyper-Hackable Text Editor. Forked from Atom. ([MIT](https://raw.githubusercontent.com/pulsar-edit/pulsar/master/LICENSE.md))
-- [Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor â and more. ([GNU GPL](http://www.free-soft.org/gpl_history/emacs_gpl.html))
+- [Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor — and more. ([GNU GPL](http://www.free-soft.org/gpl_history/emacs_gpl.html))
 - [GNU nano](https://www.nano-editor.org/) - Simple text editor for the command line. ([GNU GPL](https://www.nano-editor.org/dist/v2.7/README))
 - [vim](https://www.vim.org/) - Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. ([GNU GPL compatible](https://vimhelp.org/uganda.txt.html#license))
 - [VS Code](https://github.com/microsoft/vscode) - A source-code editor made by Microsoft ([MIT](https://github.com/microsoft/vscode/blob/main/LICENSE.txt))
@@ -156,7 +156,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 
 ### Utilities
 
-- [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - An open source macOS app that lets you quickly toggle grayscale filter right from your menu bar or using a keyboard shortcut (â¥âG). ([MIT](https://github.com/rkbhochalya/grayscale-mode/blob/master/LICENSE))
+- [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - An open source macOS app that lets you quickly toggle grayscale filter right from your menu bar or using a keyboard shortcut (⌥⌘G). ([MIT](https://github.com/rkbhochalya/grayscale-mode/blob/master/LICENSE))
 - [Markdownify](https://markdownify.js.org) - A minimal Markdown editor. ([MIT](https://github.com/amitmerchant1990/electron-markdownify/blob/master/LICENSE.md))
 - [Sandman](https://alexanderepstein.github.io/Sandman/) - Lets you know when to turn off the computer and sleep based on calculated sleep cycles. ([MIT](https://github.com/alexanderepstein/Sandman/blob/master/License.md))
 - [Search Deflector](https://spikespaz.com/search-deflector) - A small program that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. ([MIT](https://github.com/spikespaz/search-deflector/blob/master/LICENSE))
@@ -264,7 +264,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 
 ### Organizations
 
-- [April](https://www.april.org/) - Promouvoir et dÃ©fendre le logiciel libre.
+- [April](https://www.april.org/) - Promouvoir et défendre le logiciel libre.
 - [Digital Freedom Foundation](https://en.wikipedia.org/wiki/Digital_Freedom_Foundation) - Promotes access to knowledge via technology.
 - [Framasoft](https://framasoft.org/) - Network dedicated to globally promoting free software, innovative projects, and a world of sharing and cooperation.
 - [Free Software Foundation](https://www.fsf.org/) - Nonprofit with a worldwide mission to promote computer user freedom.
@@ -290,11 +290,11 @@ Software in this list is distributed under terms that allow anyone to use, modif
 
 ### People
 
-- [Maxime LathuiliÃ¨re](https://maxlath.eu/) - Reorganizing information and resources through libre software to enable a free society.
+- [Maxime Lathuilière](https://maxlath.eu/) - Reorganizing information and resources through libre software to enable a free society.
 
 ### Talks
 
-- [AgustÃ­n Benito: Free Software, Beyond Software (TEDxLaLaguna)](https://www.youtube.com/watch?v=_2Qq072wIDk) (EspaÃ±ol)
+- [Agustín Benito: Free Software, Beyond Software (TEDxLaLaguna)](https://www.youtube.com/watch?v=_2Qq072wIDk) (Español)
 - [Eben Moglen: How I Discovered Free Software](https://www.youtube.com/watch?v=uKxzK9xtSXM)
 - [Prof. Nagarjuna G: Free Software for Digital India](https://www.youtube.com/watch?v=O1A4UZqPtMQ)
 - [Richard Stallman: Free Software, Free Society (TEDxGeneva 2014)](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
